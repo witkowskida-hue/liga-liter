@@ -1,0 +1,602 @@
+{
+  "01_01": {
+    "file": "commentator_01.mp3",
+    "start": 0.0,
+    "end": 2.795,
+    "event": "welcome"
+  },
+  "01_02": {
+    "file": "commentator_01.mp3",
+    "start": 4.29,
+    "end": 6.48,
+    "event": "welcome"
+  },
+  "01_03": {
+    "file": "commentator_01.mp3",
+    "start": 7.61,
+    "end": 9.955,
+    "event": "welcome"
+  },
+  "01_04": {
+    "file": "commentator_01.mp3",
+    "start": 11.055,
+    "end": 13.645,
+    "event": "welcome"
+  },
+  "01_05": {
+    "file": "commentator_01.mp3",
+    "start": 14.75,
+    "end": 16.73,
+    "event": "welcome"
+  },
+  "01_06": {
+    "file": "commentator_01.mp3",
+    "start": 17.845,
+    "end": 19.11,
+    "event": "read_syllable"
+  },
+  "01_07": {
+    "file": "commentator_01.mp3",
+    "start": 20.25,
+    "end": 21.405,
+    "event": "read_word"
+  },
+  "01_08": {
+    "file": "commentator_01.mp3",
+    "start": 22.52,
+    "end": 24.19,
+    "event": "choose_image"
+  },
+  "01_09": {
+    "file": "commentator_01.mp3",
+    "start": 25.38,
+    "end": 26.965,
+    "event": "join_syllables"
+  },
+  "01_10": {
+    "file": "commentator_01.mp3",
+    "start": 28.1,
+    "end": 29.915,
+    "event": "missing_syllable"
+  },
+  "01_11": {
+    "file": "commentator_01.mp3",
+    "start": 30.99,
+    "end": 32.8,
+    "event": "missing_letter"
+  },
+  "01_12": {
+    "file": "commentator_01.mp3",
+    "start": 33.885,
+    "end": 35.835,
+    "event": "read_instruction"
+  },
+  "01_13": {
+    "file": "commentator_01.mp3",
+    "start": 36.985,
+    "end": 38.655,
+    "event": "read_aloud"
+  },
+  "01_14": {
+    "file": "commentator_01.mp3",
+    "start": 39.725,
+    "end": 41.36,
+    "event": "choose_word"
+  },
+  "01_15": {
+    "file": "commentator_01.mp3",
+    "start": 42.465,
+    "end": 44.26,
+    "event": "order_syllables"
+  },
+  "01_16": {
+    "file": "commentator_01.mp3",
+    "start": 45.37,
+    "end": 46.925,
+    "event": "read_sentence"
+  },
+  "01_17": {
+    "file": "commentator_01.mp3",
+    "start": 48.025,
+    "end": 50.29,
+    "event": "slow_syllables"
+  },
+  "01_18": {
+    "file": "commentator_01.mp3",
+    "start": 51.41,
+    "end": 53.515,
+    "event": "word_for_image"
+  },
+  "01_19": {
+    "file": "commentator_01.mp3",
+    "start": 54.57,
+    "end": 56.455,
+    "event": "choose_answer"
+  },
+  "01_20": {
+    "file": "commentator_01.mp3",
+    "start": 57.525,
+    "end": 60.19,
+    "event": "reading_then_shoot"
+  },
+  "01_21": {
+    "file": "commentator_01.mp3",
+    "start": 61.29,
+    "end": 62.6,
+    "event": "warmup"
+  },
+  "01_22": {
+    "file": "commentator_01.mp3",
+    "start": 63.695,
+    "end": 65.39,
+    "event": "warmup"
+  },
+  "01_23": {
+    "file": "commentator_01.mp3",
+    "start": 66.49,
+    "end": 68.485,
+    "event": "warmup"
+  },
+  "01_24": {
+    "file": "commentator_01.mp3",
+    "start": 69.565,
+    "end": 71.065,
+    "event": "welcome"
+  },
+  "01_25": {
+    "file": "commentator_01.mp3",
+    "start": 72.12,
+    "end": 73.796,
+    "event": "welcome"
+  },
+  "02_01": {
+    "file": "commentator_02.mp3",
+    "start": 0.0,
+    "end": 2.49,
+    "event": "pre_shot"
+  },
+  "02_02": {
+    "file": "commentator_02.mp3",
+    "start": 4.21,
+    "end": 5.935,
+    "event": "pre_shot"
+  },
+  "02_03": {
+    "file": "commentator_02.mp3",
+    "start": 7.405,
+    "end": 9.745,
+    "event": "pre_shot"
+  },
+  "02_04": {
+    "file": "commentator_02.mp3",
+    "start": 11.14,
+    "end": 13.68,
+    "event": "pre_shot"
+  },
+  "02_05": {
+    "file": "commentator_02.mp3",
+    "start": 14.71,
+    "end": 16.79,
+    "event": "pre_shot"
+  },
+  "02_06": {
+    "file": "commentator_02.mp3",
+    "start": 17.765,
+    "end": 20.665,
+    "event": "goal"
+  },
+  "02_07": {
+    "file": "commentator_02.mp3",
+    "start": 21.65,
+    "end": 24.345,
+    "event": "goal"
+  },
+  "02_08": {
+    "file": "commentator_02.mp3",
+    "start": 25.32,
+    "end": 27.16,
+    "event": "goal"
+  },
+  "02_09": {
+    "file": "commentator_02.mp3",
+    "start": 28.115,
+    "end": 30.195,
+    "event": "goal"
+  },
+  "02_10": {
+    "file": "commentator_02.mp3",
+    "start": 31.115,
+    "end": 33.84,
+    "event": "goal"
+  },
+  "02_11": {
+    "file": "commentator_02.mp3",
+    "start": 34.715,
+    "end": 36.97,
+    "event": "goal"
+  },
+  "02_12": {
+    "file": "commentator_02.mp3",
+    "start": 37.87,
+    "end": 40.18,
+    "event": "goal"
+  },
+  "02_13": {
+    "file": "commentator_02.mp3",
+    "start": 41.125,
+    "end": 43.69,
+    "event": "goal"
+  },
+  "02_14": {
+    "file": "commentator_02.mp3",
+    "start": 44.615,
+    "end": 47.415,
+    "event": "goal"
+  },
+  "02_15": {
+    "file": "commentator_02.mp3",
+    "start": 48.33,
+    "end": 50.615,
+    "event": "goal"
+  },
+  "02_16": {
+    "file": "commentator_02.mp3",
+    "start": 51.535,
+    "end": 54.11,
+    "event": "goal"
+  },
+  "02_17": {
+    "file": "commentator_02.mp3",
+    "start": 54.955,
+    "end": 57.345,
+    "event": "goal"
+  },
+  "02_18": {
+    "file": "commentator_02.mp3",
+    "start": 58.25,
+    "end": 60.405,
+    "event": "goal"
+  },
+  "02_19": {
+    "file": "commentator_02.mp3",
+    "start": 61.305,
+    "end": 63.81,
+    "event": "goal"
+  },
+  "02_20": {
+    "file": "commentator_02.mp3",
+    "start": 64.73,
+    "end": 66.675,
+    "event": "goal"
+  },
+  "02_21": {
+    "file": "commentator_02.mp3",
+    "start": 67.565,
+    "end": 69.555,
+    "event": "goal"
+  },
+  "02_22": {
+    "file": "commentator_02.mp3",
+    "start": 70.47,
+    "end": 72.45,
+    "event": "goal"
+  },
+  "02_23": {
+    "file": "commentator_02.mp3",
+    "start": 73.365,
+    "end": 75.905,
+    "event": "goal"
+  },
+  "02_24": {
+    "file": "commentator_02.mp3",
+    "start": 76.845,
+    "end": 79.135,
+    "event": "goal"
+  },
+  "02_25": {
+    "file": "commentator_02.mp3",
+    "start": 80.085,
+    "end": 83.148,
+    "event": "goal"
+  },
+  "03_01": {
+    "file": "commentator_03.mp3",
+    "start": 0.0,
+    "end": 2.59,
+    "event": "praise"
+  },
+  "03_02": {
+    "file": "commentator_03.mp3",
+    "start": 3.47,
+    "end": 5.555,
+    "event": "praise"
+  },
+  "03_03": {
+    "file": "commentator_03.mp3",
+    "start": 6.14,
+    "end": 7.49,
+    "event": "praise"
+  },
+  "03_04": {
+    "file": "commentator_03.mp3",
+    "start": 8.11,
+    "end": 9.7,
+    "event": "praise"
+  },
+  "03_05": {
+    "file": "commentator_03.mp3",
+    "start": 10.235,
+    "end": 11.69,
+    "event": "praise"
+  },
+  "03_06": {
+    "file": "commentator_03.mp3",
+    "start": 12.185,
+    "end": 13.955,
+    "event": "praise"
+  },
+  "03_07": {
+    "file": "commentator_03.mp3",
+    "start": 14.41,
+    "end": 15.985,
+    "event": "praise"
+  },
+  "03_08": {
+    "file": "commentator_03.mp3",
+    "start": 16.44,
+    "end": 18.16,
+    "event": "praise"
+  },
+  "03_09": {
+    "file": "commentator_03.mp3",
+    "start": 18.625,
+    "end": 20.27,
+    "event": "praise"
+  },
+  "03_10": {
+    "file": "commentator_03.mp3",
+    "start": 20.89,
+    "end": 22.79,
+    "event": "praise"
+  },
+  "03_11": {
+    "file": "commentator_03.mp3",
+    "start": 23.245,
+    "end": 25.07,
+    "event": "praise"
+  },
+  "03_12": {
+    "file": "commentator_03.mp3",
+    "start": 25.525,
+    "end": 27.06,
+    "event": "praise"
+  },
+  "03_13": {
+    "file": "commentator_03.mp3",
+    "start": 27.42,
+    "end": 29.215,
+    "event": "praise"
+  },
+  "03_14": {
+    "file": "commentator_03.mp3",
+    "start": 29.665,
+    "end": 31.0,
+    "event": "praise"
+  },
+  "03_15": {
+    "file": "commentator_03.mp3",
+    "start": 31.46,
+    "end": 33.315,
+    "event": "praise"
+  },
+  "03_16": {
+    "file": "commentator_03.mp3",
+    "start": 33.79,
+    "end": 35.7,
+    "event": "retry"
+  },
+  "03_17": {
+    "file": "commentator_03.mp3",
+    "start": 36.165,
+    "end": 37.485,
+    "event": "retry"
+  },
+  "03_18": {
+    "file": "commentator_03.mp3",
+    "start": 37.97,
+    "end": 39.675,
+    "event": "retry"
+  },
+  "03_19": {
+    "file": "commentator_03.mp3",
+    "start": 40.215,
+    "end": 41.415,
+    "event": "retry"
+  },
+  "03_20": {
+    "file": "commentator_03.mp3",
+    "start": 41.88,
+    "end": 43.635,
+    "event": "retry"
+  },
+  "03_21": {
+    "file": "commentator_03.mp3",
+    "start": 44.15,
+    "end": 45.69,
+    "event": "retry"
+  },
+  "03_22": {
+    "file": "commentator_03.mp3",
+    "start": 46.215,
+    "end": 47.575,
+    "event": "retry"
+  },
+  "03_23": {
+    "file": "commentator_03.mp3",
+    "start": 48.04,
+    "end": 49.535,
+    "event": "retry"
+  },
+  "03_24": {
+    "file": "commentator_03.mp3",
+    "start": 50.01,
+    "end": 51.375,
+    "event": "retry"
+  },
+  "03_25": {
+    "file": "commentator_03.mp3",
+    "start": 51.935,
+    "end": 54.282,
+    "event": "retry"
+  },
+  "04_01": {
+    "file": "commentator_04.mp3",
+    "start": 0.0,
+    "end": 2.64,
+    "event": "match_end"
+  },
+  "04_02": {
+    "file": "commentator_04.mp3",
+    "start": 3.41,
+    "end": 6.99,
+    "event": "victory"
+  },
+  "04_03": {
+    "file": "commentator_04.mp3",
+    "start": 7.63,
+    "end": 10.135,
+    "event": "trophy"
+  },
+  "04_04": {
+    "file": "commentator_04.mp3",
+    "start": 10.705,
+    "end": 12.96,
+    "event": "promotion"
+  },
+  "04_05": {
+    "file": "commentator_04.mp3",
+    "start": 13.535,
+    "end": 15.72,
+    "event": "stadium"
+  },
+  "04_06": {
+    "file": "commentator_04.mp3",
+    "start": 16.32,
+    "end": 18.455,
+    "event": "star"
+  },
+  "04_07": {
+    "file": "commentator_04.mp3",
+    "start": 19.065,
+    "end": 20.615,
+    "event": "record"
+  },
+  "04_08": {
+    "file": "commentator_04.mp3",
+    "start": 21.31,
+    "end": 24.12,
+    "event": "champion"
+  },
+  "04_09": {
+    "file": "commentator_04.mp3",
+    "start": 24.745,
+    "end": 26.135,
+    "event": "pass"
+  },
+  "04_10": {
+    "file": "commentator_04.mp3",
+    "start": 26.785,
+    "end": 28.055,
+    "event": "dribble"
+  },
+  "04_11": {
+    "file": "commentator_04.mp3",
+    "start": 28.745,
+    "end": 30.765,
+    "event": "dribble"
+  },
+  "04_12": {
+    "file": "commentator_04.mp3",
+    "start": 31.395,
+    "end": 33.845,
+    "event": "attack"
+  },
+  "04_13": {
+    "file": "commentator_04.mp3",
+    "start": 34.485,
+    "end": 36.575,
+    "event": "dribble"
+  },
+  "04_14": {
+    "file": "commentator_04.mp3",
+    "start": 37.195,
+    "end": 39.095,
+    "event": "save"
+  },
+  "04_15": {
+    "file": "commentator_04.mp3",
+    "start": 39.71,
+    "end": 41.915,
+    "event": "post"
+  },
+  "04_16": {
+    "file": "commentator_04.mp3",
+    "start": 42.49,
+    "end": 44.655,
+    "event": "save"
+  },
+  "04_17": {
+    "file": "commentator_04.mp3",
+    "start": 45.24,
+    "end": 46.77,
+    "event": "attack"
+  },
+  "04_18": {
+    "file": "commentator_04.mp3",
+    "start": 47.395,
+    "end": 50.105,
+    "event": "chant"
+  },
+  "04_19": {
+    "file": "commentator_04.mp3",
+    "start": 50.675,
+    "end": 52.99,
+    "event": "chant"
+  },
+  "04_20": {
+    "file": "commentator_04.mp3",
+    "start": 53.65,
+    "end": 55.555,
+    "event": "chant"
+  },
+  "04_21": {
+    "file": "commentator_04.mp3",
+    "start": 56.17,
+    "end": 58.195,
+    "event": "chant"
+  },
+  "04_22": {
+    "file": "commentator_04.mp3",
+    "start": 58.815,
+    "end": 61.295,
+    "event": "chant"
+  },
+  "04_23": {
+    "file": "commentator_04.mp3",
+    "start": 61.885,
+    "end": 64.435,
+    "event": "rest"
+  },
+  "04_24": {
+    "file": "commentator_04.mp3",
+    "start": 65.075,
+    "end": 67.045,
+    "event": "farewell"
+  },
+  "04_25": {
+    "file": "commentator_04.mp3",
+    "start": 67.695,
+    "end": 69.329,
+    "event": "farewell"
+  }
+}
